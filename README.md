@@ -56,7 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Cypher-A/Cypher-A/output/snake.svg" alt="Snake animation" />
 
 ###
 
